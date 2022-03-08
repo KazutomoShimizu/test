@@ -1,0 +1,36 @@
+textarea{
+  width: 480px;
+}
+
+.contact{
+  width: 480px;
+}
+
+.contact-submit{
+  background-color: #008B8B;
+  color: #FFFFFF;
+  margin: 10px;
+  font-size: 3rem;
+  border: none;
+}
+
+.contact-submit:hover{
+  opacity: 0.6;
+}
+
+table{
+  border-spacing: 10px;
+}
+
+table th{
+  text-align: right;
+}
+
+table tr{
+  height: 7rem;
+  width: 150px;
+}
+
+.btn-area{
+  text-align: center;
+}
